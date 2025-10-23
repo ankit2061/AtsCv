@@ -42,3 +42,6 @@ htmlcov/
 
 # Jupyter notebooks
 *.ipynb
+
+cloudbuild.yaml
+
